@@ -1,4 +1,4 @@
-# RAG-LangChain-
+# Talk to your Documents
 Langchain RAG Tutorial
 Install dependencies.
 
